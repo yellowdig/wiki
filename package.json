@@ -1,0 +1,25 @@
+{
+  "name": "yellowdig-wiki",
+  "version": "0.0.1",
+  "description": "app for creating and editing markdown wiki files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yellowdig/wiki.git"
+  },
+  "author": "Brian Hurlow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yellowdig/wiki/issues"
+  },
+  "homepage": "https://github.com/yellowdig/wiki#readme",
+  "dependencies": {
+    "marked": "^0.3.19",
+    "next": "^6.0.0",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  }
+}
